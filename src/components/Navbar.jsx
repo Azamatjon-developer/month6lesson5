@@ -10,15 +10,17 @@ import {
   SubsrictionLogo,
   ArticlesLogo,
   DashboardLogo,
+  DashboardLogo1
 } from "../components/Icons";
 
 function Navbar() {
   return (
     <>
-      <nav className="min-w-[20%] h-[100vh] overflow-y-auto bg-[#363740] flex flex-col ">
+      <nav className="min-w-[20%]  overflow-y-auto bg-[#363740] flex flex-col ">
         <div className="flex px-[32px] mt-[41px] mb-[61px] gap-2 items-center text-white">
           {" "}
-          <DashboardLogo /> <h2>Dashboard Kit</h2>{" "}
+          <DashboardLogo1/>
+           <h2>Dashboard Kit</h2>{" "}
         </div>
         <NavLink
           className={
