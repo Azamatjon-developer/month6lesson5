@@ -24,6 +24,7 @@ function Overview() {
           <div className="w-[258px] h-[134px] bg-[#fff]  text-center pt-10 hover:border border-[#3751FF]">
             <h3 className="text-[#9FA2B4]">Unresolved</h3>
             <p className="text-[#252733] text-[40px] mb-[12px]">60</p>
+            <h4>Azamat </h4>
           </div>
 
           <div className="w-[258px] h-[134px] bg-[#fff]  text-center pt-10  hover:border border-[#3751FF] ">
