@@ -111,19 +111,19 @@ function Overview() {
                 <p className="text-[#3751FF]"> View details</p>
               </div>
             </div>
-            <div className="flex justify-between gap-5 border-b border-[#9FA2B4] pb-3">
+            <div className="flex justify-between gap-5 border-b border-[#9FA2B4] pb-3 py-[20px]">
               <p>Waiting on Feature Request</p>
               <h3>4238</h3>
             </div>
-            <div className="flex justify-between gap-5 border-b border-[#9FA2B4] pb-3">
+            <div className="flex justify-between gap-5 border-b border-[#9FA2B4] pb-3 py-[20px]">
               <p>Awaiting Customer Response</p>
               <h3>1005</h3>
             </div>
-            <div className="flex justify-between gap-5 border-b border-[#9FA2B4] pb-3">
+            <div className="flex justify-between gap-5 border-b border-[#9FA2B4] pb-3 py-[20px]">
               <p>Awaiting Developer Fix</p>
               <h3>914</h3>
             </div>
-            <div className="flex justify-between gap-5 border-b border-[#9FA2B4] pb-3">
+            <div className="flex justify-between gap-5 py-[20px]">
               <p>Pending</p>
               <h3>281</h3>
             </div>
@@ -134,7 +134,7 @@ function Overview() {
               <h3>
                 Tasks <br /> <span className="text-[#9FA2B4]">Today</span>
               </h3>
-              <p>View all</p>
+              <p className="text-[#3751FF]">View all</p>
             </div>
 
             <div className="flex justify-between items-center gap-3">
