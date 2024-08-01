@@ -5,7 +5,7 @@ import { Overview,Agents,Articles,Contacts,Ideas,Settings,Tickets,Subsricption }
 
 function CustomRoutes() {
   return (
-    <div className='w-[80%] h-[100vh] bg-white'>
+    <div className='w-[80%] h-[100vh] overflow-y-auto bg-[#f7f8fc]'>
     <Routes>
         <Route path='/' element = {<Overview/>} />
         <Route path='/tickets' element = {<Tickets/>} />

@@ -9,8 +9,8 @@ import {
   SettingsLogo,
   SubsrictionLogo,
   ArticlesLogo,
-  DashboardLogo,
-  DashboardLogo1
+  DashboardLogo1,
+  PlusIcon,
 } from "../components/Icons";
 
 function Navbar() {
